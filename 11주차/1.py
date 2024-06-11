@@ -1,0 +1,8 @@
+print("이름을 입력하세요.")
+name = input()
+tel = input("전화번호를 입력하세요.")
+print("이메일을 입력하세요.")
+email = input()
+print("이름 :" + name)
+print("전화번호 :" + tel)
+print("이메일 :" + email)

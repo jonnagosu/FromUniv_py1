@@ -1,0 +1,5 @@
+name = input('이름을 입력하세요 =>')
+age = int(input('나이를 입력하세요 =>'))
+print('니름 :' + name)
+print('나이 :' + str(age))
+print('2025년의 나이:' , age+1)
